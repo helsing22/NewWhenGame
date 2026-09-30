@@ -4,7 +4,7 @@
 
 **Género:** Survival Horror 2D Side-View
 
-**Plataforma:** PC (Godot 4.6.1)
+**Plataforma:** PC (Godot 4.7.2 Stable)
 
 **Tema central:** Soledad vs. Compañía en un mundo post-apocalíptico. Decisiones que salvan o matan NPCs. Atmósfera pesada, opresiva y realista.
 
